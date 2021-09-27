@@ -82,6 +82,3 @@ begin
 	end process;
     
 end architecture;
--- e se eu quiser deixar assim?
---bb
--- OI JUMORI
